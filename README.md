@@ -1,7 +1,10 @@
-# Cert_HEC_Analytique
-HEC Montreal - Certification Analytique d'affaires
+# HEC Montreal - Certification Analytique d'affaires
 
+<p align="center">
+  <img src="https://www.hec.ca/web_resources/img/logoPrintVersion.jpg">
+</p>
 
+## Curriculum
 | Categorie      | Sigle     | Cours                                                 | Sujets |
 | :------------- | :-------: | :---------------------------------------------------- | :----- |
 | Fondement      | MATH30600 | Statistique                                           |        |
