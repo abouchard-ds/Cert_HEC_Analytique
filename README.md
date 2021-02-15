@@ -2,7 +2,9 @@
   <img width="70%" height="70%" src="https://www.hec.ca/web_resources/img/logoPrintVersion.jpg">
 </p>
 
-# HEC Montreal - Certification Analytique d'affaires
+# Certificat en analytique d'affaires
+
+Le certificat en analytique d'affaires de HEC Montreal offre des cours de mathematiques et d'informatique permettant d'avoir une base en science des donnees.
 
 ## Curriculum
 | Categorie      | Sigle     | Cours                                                 | Sujets |
