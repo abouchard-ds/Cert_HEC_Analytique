@@ -35,6 +35,8 @@ Concernant les perspectives d'emploi, je ne sais pas car je n'ai pas essayer de 
 
 Je crois que les diplomes devraient avoir une chance car la formation est pertinente et il y a quelques perles rares qui sortent de ce programme. Cette chance sera prise par les PME la plupart du temps. 
 
+### Conclusion
+
 Points positifs:
 - Mieux que des cours en ligne sur internet a la Udacity, Coursera, LinkedIn;
 - Le curriculum donne une bonne vision globale du domaine;
