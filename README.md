@@ -9,20 +9,30 @@ Le [certificat en analytique d'affaires](https://www.hec.ca/programmes/certifica
 Le certificat est similaire a la [maitrise du meme nom](https://www.hec.ca/programmes/maitrises/maitrise-science-donnees-analytique-affaires/structure/index.html). (du moins dans l'ancienne formule ils etaient pratiquement pareils)
 
 ## Curriculum
-| Categorie      | Sigle     | Cours                                                 | Sujets |
-| :------------- | :-------: | :---------------------------------------------------- | :----- |
-| Fondement      | MATH30600 | Statistique                                           |        |
-| Fondement      | MATH30650 | Introduction à l'analytique d'affaires                |        |
-| Spécialisation | MATH30602 | Logiciels statistiques pour la gestion                |        |
-| Spécialisation | MATH30603 | Méthodes statistiques avancées                        |        |
-| Spécialisation | MATH30604 | Modèles d'optimisation et de recherche opérationnelle |        |
-| Spécialisation | MATH30606 | Traitement et visualisation de données                |        |
-| Spécialisation | MATH30636 | Introduction à l'apprentissage automatique            |        |
-| Spécialisation | TECH30607 | Web analytique                                        |        |
-| Spécialisation | TECH30705 | Systemes d'information en gestion                     |        |
+| Categorie      | Github lien   | Cours                                                 | Sujets |
+| :------------- | :-----------: | :---------------------------------------------------- | :----- |
+| Fondement      | MATH30600[h1] | Statistique                                           |        |
+| Fondement      | MATH30650[h2] | Introduction à l'analytique d'affaires                |        |
+| Spécialisation | MATH30602[h3] | Logiciels statistiques pour la gestion                |        |
+| Spécialisation | MATH30603[h4] | Méthodes statistiques avancées                        |        |
+| Spécialisation | MATH30604[h5] | Modèles d'optimisation et de recherche opérationnelle |        |
+| Spécialisation | MATH30606[h6] | Traitement et visualisation de données                |        |
+| Spécialisation | MATH30636[h7] | Introduction à l'apprentissage automatique            |        |
+| Spécialisation | TECH30607[h8] | Web analytique                                        |        |
+| Spécialisation | TECH30705[h9] | Systemes d'information en gestion                     |        |
 |||||
-| Option         | PROJ30413 | Leadership et gestion de projet                       |        |
+| Option         | PROJ30413[h10] | Leadership et gestion de projet                       |        |
 
 ------------------------------------------------------------------------------------------------------------------------
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
+[h1]:(https://github.com/abouchard-ds/MATH30600)
+[h2]:(https://github.com/abouchard-ds/MATH30650)
+[h3]:(https://github.com/abouchard-ds/MATH30602)
+[h4]:(https://github.com/abouchard-ds/MATH30603)
+[h5]:(https://github.com/abouchard-ds/MATH30604)
+[h6]:(https://github.com/abouchard-ds/MATH30606)
+[h7]:(https://github.com/abouchard-ds/MATH30636)
+[h8]:(https://github.com/abouchard-ds/TECH30607)
+[h9]:(https://github.com/abouchard-ds/TECH30705)
+[h10]:(https://github.com/abouchard-ds/PROJ30413)
