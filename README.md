@@ -11,8 +11,8 @@ Le [certificat en analytique d'affaires](https://www.hec.ca/programmes/certifica
 Le certificat est similaire a la [maitrise du meme nom](https://www.hec.ca/programmes/maitrises/maitrise-science-donnees-analytique-affaires/structure/index.html). (du moins dans l'ancienne formule ils etaient pratiquement pareils)
 
 ## Curriculum
-| Categorie      | Github lien   | Cours                                                 | Sujets |
-| :------------- | :-----------: | :---------------------------------------------------- | :----- |
+| Categorie      | Github lien   | Cours                                                   | Sujets |
+| :------------- | :-----------: | :------------------------------------------------------ | :----- |
 | Fondement      | [MATH30600][h1] | Statistique                                           |        |
 | Fondement      | [MATH30650][h2] | Introduction à l'analytique d'affaires                |        |
 | Spécialisation | [MATH30602][h3] | Logiciels statistiques pour la gestion                |        |
@@ -22,8 +22,26 @@ Le certificat est similaire a la [maitrise du meme nom](https://www.hec.ca/progr
 | Spécialisation | [MATH30636][h7] | Introduction à l'apprentissage automatique            |        |
 | Spécialisation | [TECH30607][h8] | Web analytique                                        |        |
 | Spécialisation | [TECH30705][h9] | Systemes d'information en gestion                     |        |
-|||||
-| Option         | [PROJ30413][h10] | Leadership et gestion de projet                       |        |
+|                |                 |                                                       |        |
+| Option         | [PROJ30413][h10] | Leadership et gestion de projet                      |        |
+
+## Conclusion
+
+Ce certificat est vraiment super.
+
+Points positifs:
+- Mieux que des cours en ligne sur internet a la Udacity, Coursera, LinkedIn;
+- Fournit la connaissance requise pour approfondir par soi-meme (j'avais tout ce dont j'avais besoin pour apprendre un algorithme plus complexe comme xgboost);
+- Les certificats sont des formations pratiques, tout est applicable directement;
+- L'horaire fonctionne avec les besoins de la clientele adulte (cours debutant a 18h45);
+- Je n'ai eu que 2 experiences de professeurs moins qualifiee;
+
+Points negatifs:
+- Beaucoup d'evaluations d'equipe ce qui reduit la variance des resultats (tout le monde obtient la note de meilleur dans l'equipe)
+- Le systeme de notation est normalise (la note litterale pour le meme resultats sur 100 change selon le groupe, j'ai eu un B avec 84%)
+- Les notes sur 100 ne sont pas arrondie au plus proche (dans cette session il fallait 83% pour obtenir A, j'avais 82.30 j'ai donc obtenu A-)
+- La qualite varie enormement d'un diplome a l'autre (il y a des excellents, il y en a d'autres qui passent en comprenant a peine) 
+- Certains cours sont trop faciles
 
 [h1]: https://github.com/abouchard-ds/MATH30600
 [h2]: https://github.com/abouchard-ds/MATH30650
