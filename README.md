@@ -6,7 +6,7 @@
 
 Le [certificat en analytique d'affaires](https://www.hec.ca/programmes/certificats/certificat-analytique-affaires/structure/index.html) de HEC Montreal offre des cours de mathematiques et d'informatique permettant d'obtenir une base solide en analyse quantitative (*science des donnees*) utiles en intelligence d'affaires et pour la valorisation des donnees en general.
 
-Le certificat est modele selon la formule de la [maitrise du meme nom](https://www.hec.ca/programmes/maitrises/maitrise-science-donnees-analytique-affaires/structure/index.html). 
+Le certificat est similaire a la formule de la [maitrise du meme nom](https://www.hec.ca/programmes/maitrises/maitrise-science-donnees-analytique-affaires/structure/index.html). 
 
 ## Curriculum
 | Categorie      | Sigle     | Cours                                                 | Sujets |
