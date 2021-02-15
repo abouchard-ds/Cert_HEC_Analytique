@@ -11,17 +11,17 @@ Le certificat est similaire a la [maitrise du meme nom](https://www.hec.ca/progr
 ## Curriculum
 | Categorie      | Github lien   | Cours                                                 | Sujets |
 | :------------- | :-----------: | :---------------------------------------------------- | :----- |
-| Fondement      | MATH30600[h1] | Statistique                                           |        |
-| Fondement      | MATH30650[h2] | Introduction à l'analytique d'affaires                |        |
-| Spécialisation | MATH30602[h3] | Logiciels statistiques pour la gestion                |        |
-| Spécialisation | MATH30603[h4] | Méthodes statistiques avancées                        |        |
-| Spécialisation | MATH30604[h5] | Modèles d'optimisation et de recherche opérationnelle |        |
-| Spécialisation | MATH30606[h6] | Traitement et visualisation de données                |        |
-| Spécialisation | MATH30636[h7] | Introduction à l'apprentissage automatique            |        |
-| Spécialisation | TECH30607[h8] | Web analytique                                        |        |
-| Spécialisation | TECH30705[h9] | Systemes d'information en gestion                     |        |
+| Fondement      | [MATH30600][h1] | Statistique                                           |        |
+| Fondement      | [MATH30650][h2] | Introduction à l'analytique d'affaires                |        |
+| Spécialisation | [MATH30602][h3] | Logiciels statistiques pour la gestion                |        |
+| Spécialisation | [MATH30603][h4] | Méthodes statistiques avancées                        |        |
+| Spécialisation | [MATH30604][h5] | Modèles d'optimisation et de recherche opérationnelle |        |
+| Spécialisation | [MATH30606][h6] | Traitement et visualisation de données                |        |
+| Spécialisation | [MATH30636][h7] | Introduction à l'apprentissage automatique            |        |
+| Spécialisation | [TECH30607][h8] | Web analytique                                        |        |
+| Spécialisation | [TECH30705][h9] | Systemes d'information en gestion                     |        |
 |||||
-| Option         | PROJ30413[h10] | Leadership et gestion de projet                       |        |
+| Option         | [PROJ30413][h10] | Leadership et gestion de projet                       |        |
 
 ------------------------------------------------------------------------------------------------------------------------
 
