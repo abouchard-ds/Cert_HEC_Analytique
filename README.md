@@ -1,7 +1,7 @@
 # HEC Montreal - Certification Analytique d'affaires
 
 <p align="center">
-  <img src="https://www.hec.ca/web_resources/img/logoPrintVersion.jpg">
+  <img width="70%" height="70%" src="https://www.hec.ca/web_resources/img/logoPrintVersion.jpg">
 </p>
 
 ## Curriculum
