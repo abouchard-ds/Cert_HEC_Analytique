@@ -2,6 +2,8 @@
   <img width="70%" height="70%" src="https://www.hec.ca/web_resources/img/logoPrintVersion.jpg">
 </p>
 
+![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
+
 # Certificat en analytique d'affaires
 
 Le [certificat en analytique d'affaires](https://www.hec.ca/programmes/certificats/certificat-analytique-affaires/structure/index.html) de HEC Montreal offre des cours de mathematiques et d'informatique permettant d'obtenir une base solide en analyse quantitative (*science des donnees*) utiles en intelligence d'affaires et pour la valorisation des donnees en general.
@@ -23,9 +25,6 @@ Le certificat est similaire a la [maitrise du meme nom](https://www.hec.ca/progr
 |||||
 | Option         | [PROJ30413][h10] | Leadership et gestion de projet                       |        |
 
-------------------------------------------------------------------------------------------------------------------------
-
-![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
 [h1]: https://github.com/abouchard-ds/MATH30600
 [h2]: https://github.com/abouchard-ds/MATH30650
 [h3]: https://github.com/abouchard-ds/MATH30602
