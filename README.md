@@ -26,13 +26,13 @@ Le certificat est similaire a la [maitrise du meme nom](https://www.hec.ca/progr
 ------------------------------------------------------------------------------------------------------------------------
 
 ![HEC](https://www.hec.ca/images/comelect/d-decou-lg.jpg)
-[h1]:(https://github.com/abouchard-ds/MATH30600)
-[h2]:(https://github.com/abouchard-ds/MATH30650)
-[h3]:(https://github.com/abouchard-ds/MATH30602)
-[h4]:(https://github.com/abouchard-ds/MATH30603)
-[h5]:(https://github.com/abouchard-ds/MATH30604)
-[h6]:(https://github.com/abouchard-ds/MATH30606)
-[h7]:(https://github.com/abouchard-ds/MATH30636)
-[h8]:(https://github.com/abouchard-ds/TECH30607)
-[h9]:(https://github.com/abouchard-ds/TECH30705)
-[h10]:(https://github.com/abouchard-ds/PROJ30413)
+[h1]: https://github.com/abouchard-ds/MATH30600
+[h2]: https://github.com/abouchard-ds/MATH30650
+[h3]: https://github.com/abouchard-ds/MATH30602
+[h4]: https://github.com/abouchard-ds/MATH30603
+[h5]: https://github.com/abouchard-ds/MATH30604
+[h6]: https://github.com/abouchard-ds/MATH30606
+[h7]: https://github.com/abouchard-ds/MATH30636
+[h8]: https://github.com/abouchard-ds/TECH30607
+[h9]: https://github.com/abouchard-ds/TECH30705
+[h10]: https://github.com/abouchard-ds/PROJ30415
