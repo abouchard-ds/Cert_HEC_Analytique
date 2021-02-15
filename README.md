@@ -27,14 +27,17 @@ Le certificat est similaire a la [maitrise du meme nom](https://www.hec.ca/progr
 
 ## Conclusion
 
-Ce certificat est vraiment super.
+Ca vaut l'investissement de temps. 
+
+Concernant les perspectives d'emploi, je ne sais pas car je n'ai pas essayer de me diriger vers ce domaine pour l'instant. A ma connaissance les offres d'emploi demandent souvent une maitrise surtout si on parle de machine learning. Autrement la plupart des emplois en grande entreprise de pres ou de loin a l'informatique demandent maintenant un BAC, autrement on ne peut meme pas passer l'etape du tri de CV par les RH (sauf si tu as des contacts pour bypasser cette etape). Je crois tout de meme que les diplomes devraient avoir une chance car la formation est pertinente.
 
 Points positifs:
 - Mieux que des cours en ligne sur internet a la Udacity, Coursera, LinkedIn;
+- Le curriculum donne une bonne vision globale du domaine;
 - Fournit la connaissance requise pour approfondir par soi-meme (j'avais tout ce dont j'avais besoin pour apprendre un algorithme plus complexe comme xgboost);
 - Les certificats sont des formations pratiques, tout est applicable directement;
 - L'horaire fonctionne avec les besoins de la clientele adulte (cours debutant a 18h45);
-- Je n'ai eu que 2 experiences de professeurs moins qualifiee;
+- Je n'ai eu que 2 experiences de professeurs moins super tous les autres etaient excellent;
 
 Points negatifs:
 - Beaucoup d'evaluations d'equipe ce qui reduit la variance des resultats (tout le monde obtient la note de meilleur dans l'equipe)
